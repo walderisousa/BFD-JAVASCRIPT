@@ -1,6 +1,6 @@
 
 function helloWorld(frase){
-    console.log(frase)
-}
+    console.log(frase);
+};
 
-helloWorld("Bom dia, Mundo!!!")
+helloWorld("Bom dia, Mundo!!!");
